@@ -32,6 +32,10 @@ header{
     font-weight: 400;
     transition: all .42s ease;
 }
+.logoutimg{
+    width: 20px;
+    align-items: center;
+}
 .navmenu a:hover{
     color: #EE1C47;
 }
@@ -47,6 +51,7 @@ header{
     font-weight: 400;
     transition: all .42s ease;
 }
+
 .nav-icon i:hover{
     transform: scale(1.1);
     color: #EE1C47;
@@ -317,6 +322,7 @@ price h4{
     text-transform: capitalize;
 
 }
+
 
 /* Responsive Css */
 @media(max-width: 890px){

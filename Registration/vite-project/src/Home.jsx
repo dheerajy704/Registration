@@ -12,17 +12,7 @@ const Home = () => {
 
             <a href= "/" class = "main-btn">Shop Now<i className='bx bx-right-arrow-alt'></i></a>
         </div>
-
-        <div class = "down-arrow">
-            <a href = "#trending" class = "down"><i className='bx bx-down-arrow-alt' ></i></a>
-        </div>
     </section>
-
-    
-   
-
-   
-   
     
     </div>
   )
